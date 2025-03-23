@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+.img{
+    float: right;
+    width: 260px;
+    height: 260px;
+}
+.Q{
+    color: black;
+}
+h4{
+    color: lightseagreen;
+}
+.W{
+    float: right;
+    width: 280px;
+    height: 260px;
+}
